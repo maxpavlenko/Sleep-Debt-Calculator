@@ -9,7 +9,7 @@ function getSleepHours (day){
       case 'thursday':
         return 9;
       case 'friday':
-        return 6;
+        return 6;ate
       case 'saturday':
         return 10;
       case 'sunday':
